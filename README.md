@@ -71,13 +71,13 @@ Detailed reports on productivity, task completion, and time management.
 ## Additional Premium Features:
 
 ## 1. *Auto-Scheduling*: 
--Todoist suggests optimal task schedules.
+Todoist suggests optimal task schedules.
 ## 2. *Calendar Integration*: 
--Two-way sync with Google Calendar.
+Two-way sync with Google Calendar.
 ## 3. *Custom Filters*: 
 -Create advanced filters for task management.
 ## 4. *Section Templates*: 
--Pre-designed section templates for projects.
+Pre-designed section templates for projects.
 
 ## Authentication features 
 
