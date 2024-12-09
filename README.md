@@ -15,16 +15,16 @@ This Figma file contains the wireframe design for the Todoist App.
 The Todoist App wireframe is a minimalist, user-centered design focusing on task management and productivity. The layout prioritizes clarity, simplicity, and intuitive navigation.
 
 
-### Link
+## Link
 
-## Figma Dev Link:
+### Figma Dev Link:
    [Link](https://www.figma.com/design/18nZNEiOzcJ6szpcTIodqh/Todoist-wireframe?node-id=6-74&m=dev&t=OZ28PCfFzTI66VBy-1)
 
-## Figma Prototype Flow Link 1: 
+### Figma Prototype Flow Link 1: 
 
 [Link](https://www.figma.com/proto/18nZNEiOzcJ6szpcTIodqh/Todoist-wireframe?node-id=0-1&node-type=canvas&viewport=128%2C59%2C0.06&t=mwVjVxwREWrhm6AP-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2)
 
-## Figma Prototype Flow Link 2 :
+### Figma Prototype Flow Link 2 :
 
 [Link](https://www.figma.com/proto/18nZNEiOzcJ6szpcTIodqh/Todoist-wireframe?node-id=0-1&node-type=canvas&viewport=154%2C234%2C0.25&t=mHASSqY6j5wlVJdd-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=55%3A2079&show-proto-sidebar=1)
 
@@ -72,22 +72,22 @@ Detailed reports on productivity, task completion, and time management.
 
 #### 1. *Auto-Scheduling*: 
 Todoist suggests optimal task schedules.
-## 2. *Calendar Integration*: 
+#### 2. *Calendar Integration*: 
 Two-way sync with Google Calendar.
-## 3. *Custom Filters*: 
+#### 3. *Custom Filters*: 
 Create advanced filters for task management.
-## 4. *Section Templates*: 
+#### 4. *Section Templates*: 
 Pre-designed section templates for projects.
 
-### Authentication features 
+### Security Measures:
 
-### Security Measures
 #### 1. *Password Authentication*: 
 Secure password storage with bcrypt hashing.
 #### 2. *Two-Factor Authentication (2FA)*:
  Optional 2FA via authenticator apps (Google Authenticator, Microsoft Authenticator) or SMS.
 
-### Advanced Security Features
+### Advanced Security Features:
+
 #### 1. *Account Lockout*: 
 Temporary lockout after repeated failed login attempts.
 #### 2. *Login History*: 
