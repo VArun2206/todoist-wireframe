@@ -62,7 +62,7 @@ Seamless integration with various apps and services.
 - Slack: Receive task notifications and updates.
 - Other integrations: Trello, Asana, Zapier, and more.
 
-## 3. *Advanced Reporting*: 
+## 3. *Advanced Reporting*:
 Detailed reports on productivity, task completion, and time management.
 - Productivity reports: Analyze daily/weekly productivity trends.
 - Task completion reports: Track task completion rates.
@@ -75,7 +75,7 @@ Todoist suggests optimal task schedules.
 ## 2. *Calendar Integration*: 
 Two-way sync with Google Calendar.
 ## 3. *Custom Filters*: 
--Create advanced filters for task management.
+Create advanced filters for task management.
 ## 4. *Section Templates*: 
 Pre-designed section templates for projects.
 
