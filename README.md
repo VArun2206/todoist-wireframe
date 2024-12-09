@@ -84,7 +84,8 @@ Pre-designed section templates for projects.
 ## Security Measures
 ## 1. *Password Authentication*: 
 Secure password storage with bcrypt hashing.
-## 2. *Two-Factor Authentication (2FA)*: Optional 2FA via authenticator apps (Google Authenticator, Microsoft Authenticator) or SMS.
+## 2. *Two-Factor Authentication (2FA)*:
+ Optional 2FA via authenticator apps (Google Authenticator, Microsoft Authenticator) or SMS.
 
 ## Advanced Security Features
 ## 1. *Account Lockout*: 
