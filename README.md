@@ -30,7 +30,7 @@ The Todoist App wireframe is a minimalist, user-centered design focusing on task
 
 ### Features 
 
-# Core Features :
+## Core Features :
 
 ## 1. *Task Management*: Create, edit, and manage tasks, including descriptions, due dates, and priorities.
 - Task hierarchy: Break tasks into smaller sub-tasks.
@@ -45,7 +45,7 @@ The Todoist App wireframe is a minimalist, user-centered design focusing on task
 - Priority levels: P1 (high), P2 (medium), P3 (low), P4 (low).
 - Flags: Mark tasks with flags for visual distinction.
 
-# Premium Features:
+## Premium Features:
 
 ## 1. *Customization*: Personalized productivity scores, goal-setting, and habit tracking.
 - Productivity scores: Track daily/weekly productivity.
@@ -62,14 +62,14 @@ The Todoist App wireframe is a minimalist, user-centered design focusing on task
 - Task completion reports: Track task completion rates.
 - Time management reports: Understand how time is spent.
 
-# Additional Premium Features:
+## Additional Premium Features:
 
 ## 1. *Auto-Scheduling*: Todoist suggests optimal task schedules.
 ## 2. *Calendar Integration*: Two-way sync with Google Calendar.
-# 3. *Custom Filters*: Create advanced filters for task management.
+## 3. *Custom Filters*: Create advanced filters for task management.
 ## 4. *Section Templates*: Pre-designed section templates for projects.
 
-# Authentication features 
+## Authentication features 
 
 ## Security Measures
 ## 1. *Password Authentication*: Secure password       storage with bcrypt hashing.
