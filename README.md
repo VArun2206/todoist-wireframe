@@ -32,37 +32,38 @@ The Todoist App wireframe is a minimalist, user-centered design focusing on task
 
 ## Core Features :
 
-## 1. *Task Management*: Create, edit, and manage tasks, including descriptions, due dates, and priorities.
+## 1. *Task Management*: 
+Create, edit, and manage tasks, including descriptions, due dates, and priorities.
 - Task hierarchy: Break tasks into smaller sub-tasks.
 - Task status: Mark tasks as completed or postponed.
 
 ## 2. *Project Organization*: 
--Group tasks into projects, labels, and sections.
+Group tasks into projects, labels, and sections.
 - Projects: Create separate projects for different areas of life or work.
 - Labels: Categorize tasks using customizable labels (e.g., "work," "personal").
 - Sections: Divide projects into sections (e.g., "ongoing," "upcoming").
 
 ## 3. *Prioritization*: 
--Set task priority levels (P1-P4) or use flags to highlight important tasks.
+Set task priority levels (P1-P4) or use flags to highlight important tasks.
 - Priority levels: P1 (high), P2 (medium), P3 (low), P4 (low).
 - Flags: Mark tasks with flags for visual distinction.
 
 ## Premium Features:
 
 ## 1. *Customization*: 
--Personalized productivity scores, goal-setting, and habit tracking.
+Personalized productivity scores, goal-setting, and habit tracking.
 - Productivity scores: Track daily/weekly productivity.
 - Goal-setting: Set and track long-term goals.
 - Habit tracking: Monitor daily habits.
 
 ## 2. *Integrations*: 
--Seamless integration with various apps and services.
+Seamless integration with various apps and services.
 - Google Calendar: Sync tasks with calendar events.
 - Slack: Receive task notifications and updates.
 - Other integrations: Trello, Asana, Zapier, and more.
 
 ## 3. *Advanced Reporting*: 
--Detailed reports on productivity, task completion, and time management.
+Detailed reports on productivity, task completion, and time management.
 - Productivity reports: Analyze daily/weekly productivity trends.
 - Task completion reports: Track task completion rates.
 - Time management reports: Understand how time is spent.
@@ -82,19 +83,19 @@ The Todoist App wireframe is a minimalist, user-centered design focusing on task
 
 ## Security Measures
 ## 1. *Password Authentication*: 
--Secure password storage with bcrypt hashing.
-## 2. *Two-Factor Authentication (2FA)*: -Optional 2FA via authenticator apps (Google Authenticator, Microsoft Authenticator) or SMS.
+Secure password storage with bcrypt hashing.
+## 2. *Two-Factor Authentication (2FA)*: Optional 2FA via authenticator apps (Google Authenticator, Microsoft Authenticator) or SMS.
 
 ## Advanced Security Features
 ## 1. *Account Lockout*: 
--Temporary lockout after repeated failed login attempts.
+Temporary lockout after repeated failed login attempts.
 ## 2. *Login History*: 
--View recent login activity.
+View recent login activity.
 
 ## Convenience Features
 ## 1. *Google Sign-In*: 
--Single sign-on (SSO) with Google accounts.
+Single sign-on (SSO) with Google accounts.
 ## 2. *Apple Sign-In*: 
--SSO with Apple IDs.
+SSO with Apple IDs.
 ## 3. *Facebook Sign-In*: 
--SSO with Facebook accounts.
+SSO with Facebook accounts.
